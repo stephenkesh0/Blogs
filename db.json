@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "My first blog",
+      "body": "This is my first blog",
+      "author": "Stephen",
+      "id": "1"
+    },
+    {
+      "id": "7056",
+      "title": "Breaking News",
+      "body": "The federal government declared a state of emergency today. ",
+      "author": "President"
+    }
+  ]
+}
